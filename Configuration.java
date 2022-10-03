@@ -1,5 +1,3 @@
-package uk.ac.westminster.ecwm511.cw1;
-
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
