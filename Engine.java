@@ -1,5 +1,3 @@
-package uk.ac.westminster.ecwm511.cw1;
-
 import java.util.Random;
 
 import android.content.Context;
