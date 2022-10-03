@@ -1,6 +1,3 @@
-package uk.ac.westminster.ecwm511.cw1;
-
-import uk.ac.westminster.ecwm511.support.R;
 import android.app.Activity;
 import android.os.Bundle;
 
